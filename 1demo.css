@@ -1,0 +1,25 @@
+.body{
+    background-color: rgb(64, 143, 167); 
+}
+.pic{
+    margin: 0 auto;
+    height: 300px;
+    width: 300px;
+    background-color: blueviolet;
+    text-align: center;
+    border: 3px solid black;
+}
+.img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+.a{color: black;}
+.e{
+    text-align: end;
+    text-align: right;
+}
+.t{
+    text-align: end;
+    text-align: center;
+}
